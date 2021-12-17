@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("Local Repo Repo is already published");
         System.out.println("Doing more work");
         System.out.println("new");
+        System.out.println("new2");
     }
 }
